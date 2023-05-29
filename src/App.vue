@@ -6,6 +6,11 @@
   <router-view/>
 </template>
 
+<script>
+import "element-plus/dist/index.css"
+
+</script>
+
 <style>
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
