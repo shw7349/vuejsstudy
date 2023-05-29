@@ -1,24 +1,8 @@
-# board
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+# 공부시작일자
+- 2023.05.23(화)
+# 공부목적
+- 회사 내 신규 업무 진행을 위한 공부 목적
+# 개발환경<br/>
+vue.js 버전 : vue@3.3.4<br/>
+개발툴 : vscode
+---------------------------------
