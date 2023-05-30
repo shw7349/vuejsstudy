@@ -1,14 +1,17 @@
 <template>
-  <nav>
+  <div id="nav">
     <router-link to="/">Home</router-link> |
     <router-link to="/about">About</router-link>
-  </nav>
+  </div>
   <router-view/>
 </template>
 
 <script>
-import "element-plus/dist/index.css"
+import "element-plus/dist/index.css";
 
+export default {
+
+}
 </script>
 
 <style>
@@ -20,16 +23,16 @@ import "element-plus/dist/index.css"
   color: #2c3e50;
 }
 
-nav {
+#nav {
   padding: 30px;
 }
 
-nav a {
+#nav a {
   font-weight: bold;
   color: #2c3e50;
 }
 
-nav a.router-link-exact-active {
+#nav a.router-link-exact-active {
   color: #42b983;
 }
 </style>
